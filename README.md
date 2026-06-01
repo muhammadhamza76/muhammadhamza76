@@ -1,4 +1,4 @@
-```md
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Hamza&fontSize=60&fontColor=ffffff)
 
 <h1 align="center">
@@ -90,4 +90,4 @@ Regression-based model for estimating house prices using property features and h
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-```
+
