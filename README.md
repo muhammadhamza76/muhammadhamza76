@@ -9,7 +9,7 @@
 <img align="right" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="280" alt="coding gif" />
 
 ### Hi there, I'm Muhammad Hamza 👋
-I’m an undergrad Information Technology student at *Government College University* and Full-Stack Developer with experience in the MERN Stack, C++, and a growing focus on Artificial Intelligence and Machine Learning.
+I’m an undergrad Information Technology student at *Government College University*, Research Intern at *University of Alberta* and Full-Stack Developer with experience in the MERN Stack, C++, and a growing focus on Artificial Intelligence and Machine Learning.
 
 
 
