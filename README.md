@@ -1,93 +1,208 @@
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Muhammad%20Hamza&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=250&section=header&text=Muhammad%20Hamza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Builder&descAlignY=55&descSize=18)
 
-<h1 align="center">
-  Hi, I'm Muhammad Hamza
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<h3 align="center">
-Machine Learning Enthusiast | AI Developer | Backend Developer
-</h3>
-
-<p align="center">
-Passionate about building intelligent systems, machine learning solutions, and scalable backend applications using Python and modern technologies.
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJ0YWF6d2M5MjF2M2l3OG5rN2g4c2RlaHJoM2V6eXJrN2JjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="350">
-</p>
+</div>
 
 ---
 
-## 🚀 Technical Skills
+<img align="right" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="280" alt="coding gif" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,mongodb,git,github,vscode" />
-</p>
+### Hi there, I'm Muhammad Hamza 👋
 
----
+I'm a **Machine Learning Enthusiast**, **Backend Developer**, and **AI Engineer** passionate about building systems that solve real-world problems.
 
-## 📌 Featured Projects
+I specialize in:
+- 🧠 End-to-end AI applications — from data pipelines to deployment
+- ⚙️ Scalable backend systems with FastAPI & Python
+- 🗄️ Natural Language to SQL (my Final Year Project: **Antigravity SQL**)
+- 🤖 LLM-powered solutions with RAG, vector indexing & structured outputs
 
-### 🔹 Text-to-SQL Engine
-Database-agnostic AI-powered system that converts natural language into SQL queries using schema understanding, join inference, validation, and semantic reasoning.
+I enjoy deep technical understanding over surface-level familiarity — always building to production-ready standards.
 
-### 🔹 Customer Churn Prediction
-Machine learning model for predicting customer churn and improving retention strategies.
-
-### 🔹 House Price Prediction
-Regression-based model for estimating house prices using property features and historical data.
+<br clear="right"/>
 
 ---
 
 ## 🏆 Achievements
 
-- 🎓 Final Year Project: Database-Agnostic Text-to-SQL Engine
-- 🚀 Built end-to-end Machine Learning applications using Python and PostgreSQL
-- 💻 Developed REST APIs using FastAPI
-- 📊 Experience with data analysis, model training, and evaluation
-- 🧠 Exploring LLMs, AI Agents, and MLOps
-- 📚 Continuously improving problem-solving and software engineering skills
+<table>
+<tr>
+<td>🎓</td>
+<td><strong><a href="https://github.com/aysh34/Code-in-Place-2026">Section Leader</a></strong> — Stanford University Code in Place 2026 · Teaching a cohort of international students in a 2-month Python programming course</td>
+</tr>
+<tr>
+<td>🧩</td>
+<td><strong><a href="https://cs50.harvard.edu/certificates/69cddd6f-cd9e-45a0-9e26-34fb645380c3">Harvard CS50x Puzzle Day 2026</a></strong> · Solved 10/10 challenges</td>
+</tr>
+<tr>
+<td>🧩</td>
+<td><strong>Harvard CS50x Puzzle Day 2025</strong> · Solved 9/9 challenges; ranked globally</td>
+</tr>
+<tr>
+<td>🎖️</td>
+<td><strong>Honhaar Merit Scholarship</strong> · Undergrad Merit Scholar (CGPA: 3.91/4)</td>
+</tr>
+<tr>
+<td>🌍</td>
+<td><strong>Kaggle Expert</strong> · Top 3% worldwide</td>
+</tr>
+<tr>
+<td>🚀</td>
+<td><strong>NASA Space Apps Challenge 2025</strong> · ML-based Earth observation and exoplanet detection</td>
+</tr>
+<tr>
+<td>🥊</td>
+<td><strong>Meta Hacker Cup 2025</strong> · Qualified for Round 1</td>
+</tr>
+<tr>
+<td>🏛️</td>
+<td><strong>UC Berkeley CALICO</strong> · Informatics competition participant (2024)</td>
+</tr>
+<tr>
+<td>🏅</td>
+<td><strong>Dean's List of Honors</strong> · SGPA 3.92/4.00 in 1st semester</td>
+</tr>
+<tr>
+<td>💻</td>
+<td><strong>Winner — Code CRUD Competition</strong> · Government College University Faisalabad</td>
+</tr>
+<tr>
+<td>🥈</td>
+<td><strong>5th Place — Programming Competition</strong> · FAST NUCES, Pakistan</td>
+</tr>
+<tr>
+<td>🎁</td>
+<td><strong>Prime Minister's Laptop Scheme (2024)</strong> · Awarded for academic excellence</td>
+</tr>
+<tr>
+<td>⚔️</td>
+<td><strong>LeetCode</strong> · 220+ problems solved</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🧠 Antigravity SQL</h3>
+<p align="center">
+Natural Language to SQL system built on FastAPI. LLM-centered architecture with zero hardcoded rules, five DB adapters (PostgreSQL, MySQL, SQLite, SQL Server, Oracle), RAG via vector indexing, and a full enterprise dark-theme UI.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=flat-square"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🐾 Veterinary Vision System</h3>
+<p align="center">
+AI-powered animal disease diagnosis using Gemini 2.5 Flash API. Returns structured JSON with visible symptoms, confidence scores, image summaries, and disease pipeline — built for a hackathon.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">📉 Customer Churn Prediction</h3>
+<p align="center">
+End-to-end ML pipeline with preprocessing, feature engineering, model training, evaluation, and persistence. Production-ready classification system.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🏠 House Price Prediction</h3>
+<p align="center">
+ML regression model with Lasso/Ridge regularization, feature engineering on the Student Performance dataset, and full model persistence.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
 
 <p align="center">
-  <a href="mailto:mhamzahamza6969@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,postgres,mongodb,git,github,vscode&theme=dark" />
+</p>
 
-  <a href="https://www.kaggle.com/mhamza76">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/muhammad-hamza-b4762b2a7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/mhamza_mha">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
+<p align="center">
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM_Engineering-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadhamza76&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza76&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mhamza76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamza76&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+![streak](https://streak-stats.demolab.com?user=mhamza76&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🤝 Leadership & Community
+
+- 🎓 **Section Leader** — Stanford University Code in Place 2026 *(affiliated with iCodeGuru)*
+- 🌐 Mentors: [Zafar Shahid PhD](https://github.com), [Rizwan Ghaffar](https://github.com), [Amir Khan](https://github.com) — iCodeGuru
+- 🏆 Active participant in global hackathons: NASA Space Apps, Meta Hacker Cup, and more
+- 💡 Competitive programmer — LeetCode 220+ · FAST NUCES · GCUF competitions
+
+---
+
+## 📬 Get In Touch
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadhamza76&theme=tokyonight" />
+  <a href="mailto:mhamzahamza6969@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/mhamza76">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-hamza-b4762b2a7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/mhamza_mha">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mhamza76&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
 
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=footer)
+
+</div>
