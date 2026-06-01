@@ -15,7 +15,7 @@ I’m an undergrad Information Technology student at ***Government College Unive
 
 My interests include building web applications, exploring AI/ML concepts through projects, and improving my problem-solving skills through programming challenges.
 
-I enjoy deep technical understanding over surface-level familiarity — always building to production-ready standards.
+I enjoy deep technical understanding over surface-level familiarity.
 
 I also participate in *hackathons* to sharpen my skills, push beyond my comfort zone, and collaborate with talented people from diverse backgrounds, turning ideas into working solutions under pressure.
 
