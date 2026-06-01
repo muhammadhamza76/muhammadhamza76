@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1b1464,60:2980b9,100:6dd5fa&height=260&section=header&text=Muhammad%20Hamza&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Builder&descAlignY=56&descSize=19&descColor=d0eaff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1b1464,60:2980b9,100:6dd5fa&height=260&section=header&text=Muhammad%20Hamza&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%MERN%20Stack%20Developer%20%7C%20%20Builder&descAlignY=56&descSize=19&descColor=d0eaff)
 
 </div>
 
@@ -9,14 +9,11 @@
 <img align="right" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="280" alt="coding gif" />
 
 ### Hi there, I'm Muhammad Hamza 👋
+I’m an undergrad Information Technology student at *Government College University* and Full-Stack Developer with experience in the MERN Stack, C++, and a growing focus on Artificial Intelligence and Machine Learning.
 
-I'm a **Machine Learning Enthusiast**, **Backend Developer**, and **AI Engineer** passionate about building systems that solve real-world problems.
 
-I specialize in:
-- 🧠 End-to-end AI applications — from data pipelines to deployment
-- ⚙️ Scalable backend systems with FastAPI & Python
-- 🗄️ Natural Language to SQL (my Final Year Project: **Antigravity SQL**)
-- 🤖 LLM-powered solutions with RAG, vector indexing & structured outputs
+
+My interests include building web applications, exploring AI/ML concepts through projects, and improving my problem-solving skills through programming challenges.
 
 I enjoy deep technical understanding over surface-level familiarity — always building to production-ready standards.
 
@@ -132,9 +129,8 @@ ML regression model with Lasso/Ridge regularization, feature engineering, and fu
 
 ## 🤝 Leadership & Community
 
-- 🎓 **Section Leader** — Stanford University Code in Place 2026 *(affiliated with iCodeGuru)*
-- 🌐 Mentors: Zafar Shahid PhD · Rizwan Ghaffar · Amir Khan — iCodeGuru
-- 💡 Competitive programmer — LeetCode 220+ · FAST NUCES · GCUF competitions
+- 🎓 **Section Leader** — Stanford University Code in Place 2026
+- 🌐 Ambassador @ ETL Online
 
 ---
 
