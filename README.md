@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100=0f3460&height=250&section=header&text=Muhammad%20Hamza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Builder&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1b1464,60:2980b9,100:6dd5fa&height=260&section=header&text=Muhammad%20Hamza&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Builder&descAlignY=56&descSize=19&descColor=d0eaff)
 
 </div>
 
@@ -28,36 +28,16 @@ I enjoy deep technical understanding over surface-level familiarity — always b
 
 <table>
 <tr>
+<td>🔬</td>
+<td><strong>Research Intern</strong> — University of Alberta · Conducting ML research in a university research environment</td>
+</tr>
+<tr>
 <td>🎓</td>
 <td><strong><a href="https://github.com/aysh34/Code-in-Place-2026">Section Leader</a></strong> — Stanford University Code in Place 2026 · Teaching a cohort of international students in a 2-month Python programming course</td>
 </tr>
 <tr>
 <td>🧩</td>
 <td><strong><a href="https://cs50.harvard.edu/certificates/69cddd6f-cd9e-45a0-9e26-34fb645380c3">Harvard CS50x Puzzle Day 2026</a></strong> · Solved 10/10 challenges</td>
-</tr>
-<tr>
-<td>🧩</td>
-<td><strong>Harvard CS50x Puzzle Day 2025</strong> · Solved 9/9 challenges; ranked globally</td>
-</tr>
-<tr>
-<td>🎖️</td>
-<td><strong>Honhaar Merit Scholarship</strong> · Undergrad Merit Scholar (CGPA: 3.91/4)</td>
-</tr>
-<tr>
-<td>🌍</td>
-<td><strong>Kaggle Expert</strong> · Top 3% worldwide</td>
-</tr>
-<tr>
-<td>🚀</td>
-<td><strong>NASA Space Apps Challenge 2025</strong> · ML-based Earth observation and exoplanet detection</td>
-</tr>
-<tr>
-<td>🥊</td>
-<td><strong>Meta Hacker Cup 2025</strong> · Qualified for Round 1</td>
-</tr>
-<tr>
-<td>🏛️</td>
-<td><strong>UC Berkeley CALICO</strong> · Informatics competition participant (2024)</td>
 </tr>
 <tr>
 <td>🏅</td>
@@ -74,10 +54,6 @@ I enjoy deep technical understanding over surface-level familiarity — always b
 <tr>
 <td>🎁</td>
 <td><strong>Prime Minister's Laptop Scheme (2024)</strong> · Awarded for academic excellence</td>
-</tr>
-<tr>
-<td>⚔️</td>
-<td><strong>LeetCode</strong> · 220+ problems solved</td>
 </tr>
 </table>
 
@@ -125,7 +101,7 @@ End-to-end ML pipeline with preprocessing, feature engineering, model training, 
 <td width="50%">
 <h3 align="center">🏠 House Price Prediction</h3>
 <p align="center">
-ML regression model with Lasso/Ridge regularization, feature engineering on the Student Performance dataset, and full model persistence.
+ML regression model with Lasso/Ridge regularization, feature engineering, and full model persistence.
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -154,28 +130,10 @@ ML regression model with Lasso/Ridge regularization, feature engineering on the 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mhamza76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhamza76&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![streak](https://streak-stats.demolab.com?user=mhamza76&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Leadership & Community
 
 - 🎓 **Section Leader** — Stanford University Code in Place 2026 *(affiliated with iCodeGuru)*
-- 🌐 Mentors: [Zafar Shahid PhD](https://github.com), [Rizwan Ghaffar](https://github.com), [Amir Khan](https://github.com) — iCodeGuru
-- 🏆 Active participant in global hackathons: NASA Space Apps, Meta Hacker Cup, and more
+- 🌐 Mentors: Zafar Shahid PhD · Rizwan Ghaffar · Amir Khan — iCodeGuru
 - 💡 Competitive programmer — LeetCode 220+ · FAST NUCES · GCUF competitions
 
 ---
@@ -197,12 +155,8 @@ ML regression model with Lasso/Ridge regularization, feature engineering on the 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhamza76&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6dd5fa,40:2980b9,70:1b1464,100:0d0221&height=150&section=footer)
 
 </div>
