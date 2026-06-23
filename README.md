@@ -9,7 +9,7 @@
 <img align="right" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="280" alt="coding gif" />
 
 ### Hi there, I'm Muhammad Hamza 👋
-I’m an undergrad Information Technology student at ***Government College University***, Research Intern at ***University of Alberta*** and Full-Stack Developer with experience in the MERN Stack, C++, and a growing focus on Artificial Intelligence and Machine Learning.
+I'm an undergrad Information Technology student at ***Government College University***, Research Intern at ***University of Alberta*** and Full-Stack Developer with experience in the MERN Stack, C++, and a growing focus on Artificial Intelligence and Machine Learning.
 
 
 
@@ -32,7 +32,7 @@ I also participate in *hackathons* to sharpen my skills, push beyond my comfort 
 </tr>
 <tr>
 <td>🎓</td>
-<td><strong><a href="https://github.com/aysh34/Code-in-Place-2026">Section Leader</a></strong> — Stanford University Code in Place 2026 · Teaching a cohort of international students in a 2-month Python programming course</td>
+<td><strong><a href="https://github.com/aysh34/Code-in-Place-2026">Section Leader</a></strong> — Stanford University Code in Place 2026 · Teaching a cohort of international students in a 2-month Python programming course<br/><br/><a href="https://github.com/aysh34/Code-in-Place-2026"><img src="./badge.svg" width="80" alt="Stanford Code in Place Section Leader Badge"/></a></td>
 </tr>
 <tr>
 <td>🧩</td>
