@@ -57,7 +57,6 @@ I also participate in *hackathons* to sharpen my skills, push beyond my comfort 
 </table>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
@@ -88,6 +87,32 @@ AI-powered animal disease diagnosis using Gemini 2.5 Flash API. Returns structur
 </tr>
 <tr>
 <td width="50%">
+<h3 align="center">🏥 Early Sepsis Prediction</h3>
+<p align="center">
+Predict sepsis onset using the first 6 hours of ICU lab values and vital signs. MICE imputation, time-aware split, Grid Search tuning, Bootstrap 95% CI, calibration curves, and SHAP explainability on MIMIC-III clinical data.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/LightGBM-009688?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/MIMIC--III-E53935?style=flat-square"/>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🔥 Wildfire Severity Prediction</h3>
+<p align="center">
+Predict large vs small wildfire events using 55k US fire records (1992-2015). Data-driven feature selection via Mutual Information, VIF, and SHAP. No manual feature picking. XGBoost AUROC 0.769.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/NASA_Data-0B3D91?style=flat-square"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 <h3 align="center">📉 Customer Churn Prediction</h3>
 <p align="center">
 End-to-end ML pipeline with preprocessing, feature engineering, model training, evaluation, and persistence. Production-ready classification system.
@@ -109,8 +134,6 @@ ML regression model with Lasso/Ridge regularization, feature engineering, and fu
 </td>
 </tr>
 </table>
-
----
 
 ## 🛠️ Technical Skills
 
