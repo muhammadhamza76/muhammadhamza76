@@ -111,28 +111,7 @@ Predict large vs small wildfire events using 55k US fire records (1992-2015). Da
 </p>
 </td>
 </tr>
-<tr>
-<td width="50%">
-<h3 align="center">📉 Customer Churn Prediction</h3>
-<p align="center">
-End-to-end ML pipeline with preprocessing, feature engineering, model training, evaluation, and persistence. Production-ready classification system.
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-</p>
-</td>
-<td width="50%">
-<h3 align="center">🏠 House Price Prediction</h3>
-<p align="center">
-ML regression model with Lasso/Ridge regularization, feature engineering, and full model persistence.
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-</td>
-</tr>
+
 </table>
 
 ## 🛠️ Technical Skills
