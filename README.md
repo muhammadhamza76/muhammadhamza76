@@ -138,7 +138,7 @@ Predict large vs small wildfire events using 55k US fire records (1992-2015). Da
 
 ---
 
-## 📬 Get In Touch
+## 📬 Profiles
 
 <p align="center">
   <a href="mailto:mhamzahamza6969@gmail.com">
