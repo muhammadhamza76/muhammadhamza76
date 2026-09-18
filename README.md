@@ -62,7 +62,7 @@ I also participate in *hackathons* to sharpen my skills, push beyond my comfort 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🧠 Antigravity SQL</h3>
+<h3 align="center">QueryMind</h3>
 <p align="center">
 Natural Language to SQL system built on FastAPI. LLM-centered architecture with zero hardcoded rules, five DB adapters (PostgreSQL, MySQL, SQLite, SQL Server, Oracle), RAG via vector indexing, and a full enterprise dark-theme UI.
 </p>
